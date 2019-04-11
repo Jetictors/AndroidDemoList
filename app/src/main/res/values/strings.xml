@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidDemoList</string>
+
+    <string name="tx_set">设置</string>
+    <string name="tx_multi_language">多语言</string>
+    <string name="tx_text_size">字体大小</string>
+    <string name="tx_text_style">字体样式</string>
+    <string name="tx_change_bg">切换背景</string>
+    <string name="tx_change_theme">切换主题</string>
+
+</resources>
